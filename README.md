@@ -1,2 +1,2 @@
 IT_management_system:
-collaborate project
+collaborate project for database management
